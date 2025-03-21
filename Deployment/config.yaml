@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: manasitdk/argocd:manu-argocd-2025-03-21-23
+          image: manasitdk/argocd:manu-argocd-2025-03-21-24
 
 
